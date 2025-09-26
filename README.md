@@ -2,6 +2,7 @@
 Use shell command genetate a template project.
 
 项目结构：
+```
 my-go/
 ├── cmd/                # 应用程序入口（主函数）
 │   └── server/         # 你的主应用（例如：Web API服务器）
@@ -23,7 +24,7 @@ my-go/
 ├── go.sum              # 依赖校验文件
 ├── Makefile            # 自动化命令（推荐使用）
 └── README.md           # 项目说明
-
+```
 
 init.sh 使用方法：
 
